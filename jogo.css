@@ -1,0 +1,113 @@
+body{
+    background-color:rgb(8, 2, 2);
+}
+
+.cabeça{
+    padding: 2px;
+}
+
+.dragão{
+    width: 100px;
+    height: 90px;
+}
+
+.explicação{
+    padding: 10px;
+}
+
+
+h1{
+    color:darkred;
+    text-align: center;
+    font-family:monospace;
+    font-size:50px;
+    font-weight: bold;
+    letter-spacing: 7px;
+    margin: 0%;
+    border-bottom: 2px  solid rgb(255, 255, 255);
+
+
+}
+
+h1:hover{
+    font-size:53px;
+    transition-duration: 1s;
+}
+
+h2{
+    text-align: center;
+    font-family: monospace;
+    color: rgba(255, 238, 0, 0.911);
+    font-size:20px;
+}
+
+p{
+    color: rgb(237, 250, 58);
+    text-align: center;
+    font-family:monospace;
+    font-size:16px;
+}
+
+
+strong{
+    color:darkred;
+}
+
+.regras  {
+    border-bottom: 2px  solid rgb(255, 255, 255);
+}
+
+.jogo{
+    color:darkred;
+    font-size: 25px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    padding: 1%;
+}
+
+.mulheres{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+div button{
+    background-color: #e7e7e7; 
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 5px 20px;
+    border-radius: 8px;
+}
+
+div button:hover {
+    background-color: #1f241f; 
+    color: white;
+    transition-duration: 3s;
+}
+
+
+footer{
+    text-align: center;
+    padding: 5px;
+    color: rgb(243, 228, 23);
+    font-size: 15px;
+}  
+
+.mulheres p {
+    font-style:italic;
+}
+
+a{
+    text-decoration: none;
+}
+
+.aqui{
+    text-align: center;
+    padding: 30px;
+}
