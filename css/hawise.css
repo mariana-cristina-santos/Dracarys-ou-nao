@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+img{
+    width: 1300px;
+    height: 400px;
+    padding: 1%;
+    
+}
+
+h1 {
+    text-align: center;
+    color:darkred;
+    font-size: 25px;
+    font-family: fantasy;
+    padding: 2px;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+        
+}
+p{
+    text-align: center;
+    color:darkred;
+    font-size: 22px;
+    font-family: monospace;
+
+}
+
+.opção{
+    color:white;
+}
+
+strong{
+    color:white
+}
