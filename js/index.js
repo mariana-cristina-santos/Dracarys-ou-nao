@@ -1,4 +1,5 @@
 function escolha(){
+    
     personagens = prompt ("Qual perosnagem deseja escolher? \n 1 - Hawise  \n 2 - Emerie \n 3- Aila" )
 
     

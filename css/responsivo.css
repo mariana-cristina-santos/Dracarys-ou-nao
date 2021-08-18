@@ -1,0 +1,36 @@
+@media (max-width: 700px) {
+
+    body {
+        background-image: url("https://i.pinimg.com/474x/57/2a/03/572a03e74755abf6d4c5f5d2927e554e.jpg");
+    }
+    
+    h2 ,p, {
+        
+       display: inline;
+       flex-direction: column;
+        
+    }
+
+    .mulheres{
+        
+        flex-direction: column;
+
+
+    }
+
+    img{
+        flex-direction: row;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+
+    }
+
+    
+
+
+    
+    
+    
+    }

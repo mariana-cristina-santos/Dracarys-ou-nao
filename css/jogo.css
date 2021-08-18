@@ -1,11 +1,13 @@
 body{
     background-color:rgb(8, 2, 2);
-    background-image: url(https://acegif.com/wp-content/gifs/dragon-6.gif);
+    background-image: url("https://acegif.com/wp-content/gifs/dragon-6.gif");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 
 }
+
+
 
 
     

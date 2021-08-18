@@ -1,10 +1,10 @@
 function qual(){
-    direção = prompt ("Para qual direção deseja ir? \n 1 - Esquerda  \n 2 - Direita" )
+    direção = prompt ("Qual arma deseja levar \n 1 - Arco e Flecha  \n 2 - Duas espadas" )
 
     if (direção==1){
-        return location = ("../html/gameover.html");
+        return location = ("../html/emeriefase1.html");
     } else if (direção==2){
-        return location =("");
+        return location =("../html/gameoveremerie.html");
     }else {
         return alert ("Escolha somente dentre as duas opções disponiveis!")    
         
