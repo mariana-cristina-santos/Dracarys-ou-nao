@@ -1,19 +1,17 @@
 @media (max-width: 700px) {
     body {
-        background-image: url("https://i.pinimg.com/474x/57/2a/03/572a03e74755abf6d4c5f5d2927e554e.jpg");
+        background-color: grey;
     }
 
-    h2,
-    p {
-        display: inline;
+    h1,
+    p,
+    strong {
         flex-direction: column;
+        font-size: 35px;
     }
 
-    .mulheres {
-        flex-direction: column;
-    }
-
-    img {
+    img,
+    .dragão {
         flex-direction: row;
         display: block;
         margin-left: auto;

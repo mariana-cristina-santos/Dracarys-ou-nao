@@ -1,81 +1,77 @@
-body{
-    background-color:rgb(8, 2, 2);
+body {
+    background-color: rgb(8, 2, 2);
     background-image: url("https://acegif.com/wp-content/gifs/dragon-6.gif");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
-.explicação{
+.explicação {
     padding: 10px;
 }
 
-
-h1{
-    color:#F2EEAC;
+h1 {
+    color: #f2eeac;
     text-align: center;
-    font-family:monospace;
-    font-size:50px;
+    font-family: monospace;
+    font-size: 50px;
     font-weight: bold;
     letter-spacing: 7px;
     margin: 0%;
-    border-bottom: 2px  solid rgb(255, 255, 255);
-    text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87
+    border-bottom: 2px solid rgb(255, 255, 255);
+    text-shadow: 0 0 0.2em #f87, 0 0 0.2em #f87;
 }
 
-h1:hover{
-    font-size:55px;
+h1:hover {
+    font-size: 55px;
     transition-duration: 2s;
 }
 
-h2{
+h2 {
     text-align: center;
     font-family: monospace;
     color: #ffffff;
-    font-size:25px;
-    color: white; text-shadow: black 0.1em 0.1em 0.2em;
-    
-
+    font-size: 25px;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
 }
 
-p{
-    color:#ffffff;
+p {
+    color: #ffffff;
     text-align: center;
-    font-family:monospace;
-    font-size:25px;
-    color: white; text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: monospace;
+    font-size: 25px;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
     font-weight: bold;
-
-    
 }
 
-
-strong{
-    color:#F2EEAC;
+strong {
+    color: #f2eeac;
 }
 
-.regras  {
-    border-bottom: 2px  solid rgb(255, 255, 255);
+.regras {
+    border-bottom: 2px solid rgb(255, 255, 255);
 }
 
-.jogo{
-    color:#F2EEAC;
+.jogo {
+    color: #f2eeac;
     font-size: 25px;
 }
 
-img{
+img {
     width: 300px;
     height: 300px;
     padding: 1%;
 }
 
-.mulheres{
+.mulheres {
     display: flex;
     justify-content: space-evenly;
 }
 
-div button{
-    background-color: #e7e7e7; 
+div button {
+    background-color: #e7e7e7;
     color: black;
     font-size: 20px;
     text-align: center;
@@ -87,28 +83,27 @@ div button{
 }
 
 div button:hover {
-    background-color: #1f241f; 
+    background-color: #1f241f;
     color: white;
     transition-duration: 3s;
 }
 
-
-footer{
+footer {
     text-align: center;
     padding: 5px;
     color: rgb(243, 228, 23);
     font-size: 15px;
-}  
-
-.mulheres p {
-    font-style:italic;
 }
 
-a{
+.mulheres p {
+    font-style: italic;
+}
+
+a {
     text-decoration: none;
 }
 
-.aqui{
+.aqui {
     text-align: center;
     padding: 30px;
 }

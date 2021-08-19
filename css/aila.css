@@ -1,38 +1,37 @@
-body{
+body {
     background-color: black;
 }
 
-img{
-    width: 350px;
-    height: 300px;
+img {
+    width: 1300px;
+    height: 400px;
     padding: 1%;
-    
 }
 
 h1 {
     text-align: center;
-    color:rgb(225, 250, 0);
-    font-size: 25px ;
-    font-family: monospace;
+    color:darkred;
+    font-size: 25px;
+    font-family: fantasy;
+    padding: 2px;
 }
 
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-        
 }
-p{
+p {
     text-align: center;
-    color:darkred;
+    color: darkred;
     font-size: 22px;
     font-family: monospace;
 }
 
-.opção{
-    color:white;
+.opção {
+    color: white;
 }
 
-strong{
-    color:white
+strong {
+    color: white;
 }
