@@ -1,4 +1,8 @@
-# Sobre o Projeto
+# Jogo de Escolhas - É Dracarys ou não é?
+
+![Logo]
+
+## Sobre o Projeto
 
 Projeto final do Módulo 1, do curso da Resilia que consiste criar um jogo de escolhas, estilo RPG, feito com HTML, CSS E JavaScript.
 
